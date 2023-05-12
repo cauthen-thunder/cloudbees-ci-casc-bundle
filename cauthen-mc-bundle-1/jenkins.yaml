@@ -294,6 +294,7 @@ unclassified:
     charset: "UTF-8"
     useSsl: false
     useTls: false
+  operationsCenterRootAction:
   pollSCM:
     pollingThreadCount: 10
   scmGit:
