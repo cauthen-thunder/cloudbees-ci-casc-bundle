@@ -295,6 +295,7 @@ unclassified:
     useSsl: false
     useTls: false
   operationsCenterRootAction:
+    connectionDetails:
   pollSCM:
     pollingThreadCount: 10
   scmGit:
